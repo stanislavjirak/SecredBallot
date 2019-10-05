@@ -7,14 +7,10 @@ D21 - First proposed by Czech mathematican and filantrop Karel Janecek, this vot
 
 ## Project structure
 The smart contract "main.rs" is located in folder "service/src".
+
 Back and Front-End is in folder "app".
-Project presentation "Hacktothemoon.odp" is in the main folder.
 
 ## Links
 Oasis Labs: https://www.oasislabs.com/
+
 D21 (whitepaper): https://drive.google.com/file/d/1om-flxepX8spQU_dxgu0Y57o0ZsJi-_h/view
-Hacktothemoon: https://hacktothemoon.com/
-
-
-
-Created at blockchain hackatlon held in Prague 28.-29. Sept. 2019 (we won!)
