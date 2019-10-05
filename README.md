@@ -1,11 +1,11 @@
 # Secure Ballot
-This is a confidential voting dapp running on a blockchain employing an enhanced voting system Democracy 2.1 (D21).
-</br>The project was created at Blockchain Hackatlon held in Prague 28.-29. Sept. 2019 (we won!)
+This is a confidential voting dapp running on a blockchain and employing an enhanced voting system Democracy 2.1 (D21).
+</br>This project was created at Blockchain Hackatlon held in Prague 28.-29. Sept. 2019 (we won!)
 
 ## Technology
 <b>Oasis Labs platform</b> - The smart concract is written in Rust and executed in Oasis Labs Network via WASM. The transactions aren't called via Web3 as a thin client but via Oasis Client which is encrypted.
 
-<b>D21</b> - First proposed by Czech mathematican and filantrop Karel Janecek, this voting system enables upto 2 positive votes and 1 negative to each voter to use, thus resulting in a statistical advantage of "sophisticated voters" and restrinction of populistic candidates. Because each voter has more votes, more people can agree on a common thing.
+<b>D21</b> - First proposed by Czech mathematican and filantrop Karel Janecek, this voting system gives upto 2 positive votes and 1 negative to each voter, resulting in a statistical advantage of "sophisticated voters" and thus restrinction of populistic and extremistic candidates. Because each voter has more votes, more people can agree on a common thing.
 
 ## Project structure
 The smart contract "main.rs" is located in folder "service/src".
