@@ -1,0 +1,49 @@
+{
+  "name": "ballot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "echo \"Run tests here\"",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@oasislabs/client": "^1.0.0-rc.22",
+    "apexcharts": "^3.8.2",
+    "core-js": "^3.2.1",
+    "oasis-style": "^1.0.0-rc1",
+    "vue": "^2.6.10",
+    "vue-apexcharts": "^1.4.0",
+    "vue-router": "^3.0.7",
+    "vuetify": "^2.0.0",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "@mdi/font": "^4.4.95",
+    "@vue/cli-plugin-eslint": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "eslint": "^6.2.2",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "node-sass": "^4.12.0",
+    "raw-loader": "^3.0.0",
+    "sass": "^1.22.10",
+    "sass-loader": "^7.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vue-cli-plugin-vuetify": "^0.6.3",
+    "vue-eslint-parser": "^6.0.4",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.2.2"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
