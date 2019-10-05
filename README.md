@@ -5,7 +5,7 @@ This is a confidential voting dapp running on a blockchain and employing an enha
 ## Technology
 <b>Oasis Labs platform</b> - The smart concract is written in Rust and executed in Oasis Labs Network via WASM. The transactions aren't called via Web3 as a thin client but via Oasis Client which is encrypted.
 
-<b>D21</b> - First proposed by Czech mathematican and filantrop Karel Janecek, this voting system gives upto 2 positive votes and 1 negative to each voter, resulting in a statistical advantage of "sophisticated voters" and thus restrinction of populistic and extremistic candidates. Because each voter has more votes, more people can agree on a common thing.
+<b>D21</b> - First proposed by Czech mathematican and filantrop Karel Janecek, this voting system gives upto 2 positive votes and 1 negative to each voter, resulting in a statistical advantage of "sophisticated voters" and thus restraining populistic and extremistic candidates. Because each voter has more votes, more people can agree on a common thing.
 
 ## Project structure
 The smart contract "main.rs" is located in folder "service/src".
